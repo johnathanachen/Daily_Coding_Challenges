@@ -1,13 +1,12 @@
 def getRecord():
     # Complete this function
-    arr = [10, 5, 20, 20, 4, 5, 2, 25, 1]
-    high = arr[0]
+    high = s[0]
     high_list = []
-    low = arr[0]
+    low = s[0]
     low_list = []
     current = 0
 
-    for i in arr:
+    for i in s:
         if i < low:
             low = i
             low_list.append(i)
@@ -17,6 +16,8 @@ def getRecord():
         else:
             pass
 
+    return len(high_list), len(low_list)
+    
     answer = []
     answer.append(str(len(high_list)))
     answer.append(str(len(low_list)))
