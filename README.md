@@ -2,10 +2,9 @@
   <br>
   <img src="https://www.nexmo.com/wp-content/uploads/2016/05/python.png" width="200">
   <br>
-    Daily Coding Challenges
-  <br>
 </h1>
-<p>A series of completed coding challenges</p>
+# Daily Coding Challenges
+  A series of completed coding challenges
 ## Hacker Rank
 ### Algorithms
   - A Very Big Sum
