@@ -5,7 +5,7 @@
     Daily Coding Challenges
   <br>
 </h1>
-<p>A series of completed coding challenges solved with Python</p>
+<p align="center">A series of completed coding challenges solved with Python</p>
          
 ## Hacker Rank
 ### Algorithms
