@@ -10,7 +10,7 @@
 ### Algorithms
   - A Very Big Sum
   - Birthday Cake Candles
-  - Compare The Triplets
+  - Compare the Triplets
   - Diagonal Difference
   - Min Max Sum
   - Plus Minus
@@ -18,6 +18,31 @@
   - Staircase
   - Time Conversion
 #### Implementation
+  - Apple and Oranges
+  - Between Two Sets
+  - Birthday Chocolate
+  - Breaking the Record
+  - Diagonal Difference
+  - Grading Students
+  - Kangaroo
 #### Strings
+  - Super reduced String
 ### Python Track
+#### Introduction
+  - Arithmetic Operations
+  - Division
+  - If-Else
+#### Strings
+  - Designer Door Mat
+  - Find a String
+  - String Split and Join
+  - String Validators
+  - Swap Case
+  - Text Alignment
+  - Text Wrap
+  - What's Your Name
 ## Project Euler
+  - 3 and 5
+  - Even Finbonacci
+  - Largest Prime Factor
+  
