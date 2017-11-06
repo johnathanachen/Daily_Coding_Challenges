@@ -3,7 +3,7 @@ import sys
 
 def getTotalX():
     n,m = [2, 3]
-    a = [2,3,5,6, 4]
+    a = [2, 4]
     b = [16, 32, 96]
 
     combined = a + b
