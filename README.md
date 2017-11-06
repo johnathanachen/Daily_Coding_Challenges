@@ -7,4 +7,17 @@
 </h1>
 
 ## Hacker Rank
+### Algorithms
+  - A Very Big Sum
+  - Birthday Cake Candles
+  - Compare The Triplets
+  - Diagonal Difference
+  - Min Max Sum
+  - Plus Minus
+  - Simple Array Sum
+  - Staircase
+  - Time Conversion
+#### Implementation
+#### Strings
+### Python Track
 ## Project Euler
