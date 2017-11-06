@@ -6,7 +6,8 @@
   <br>
 </h1>
 
-A series of completed coding challenges
+<div align="center> A series of completed coding challenges solved with Python</div>
+            
 ## Hacker Rank
 ### Algorithms
   - A Very Big Sum
