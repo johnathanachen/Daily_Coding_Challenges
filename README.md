@@ -4,9 +4,8 @@
   <br>
     Daily Coding Challenges
   <br>
-    <p>A series of completed coding challenges</p>
 </h1>
-
+<i>A series of completed coding challenges</i>
 ## Hacker Rank
 ### Algorithms
   - A Very Big Sum
