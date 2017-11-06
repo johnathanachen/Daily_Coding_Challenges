@@ -5,7 +5,6 @@
     Daily Coding Challenges
   <br>
 </h1>
-
 <div align="center> A series of completed coding challenges solved with Python</div>
             
 ## Hacker Rank
