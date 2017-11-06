@@ -6,7 +6,8 @@
   <br>
 </h1>
 <p align="center">A series of completed coding challenges solved with Python<br>
-  I completed these challenges to improve my problem solving skills and develop a better understanding of Python
+  I completed these challenges to improve my problem solving skills 
+  <br> and to develop a better understanding of Python
 </p>
          
 ## Hacker Rank
