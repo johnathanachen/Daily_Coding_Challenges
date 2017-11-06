@@ -4,6 +4,7 @@
   <br>
     Daily Coding Challenges
   <br>
+    <p>A series of completed coding challenges</p>
 </h1>
 
 ## Hacker Rank
