@@ -19,7 +19,7 @@ def divisibleSumPairs():
         else:
             count += int(mods[i] * mods[k-i])
 
-    # print(count)
+    print(count)
 
 
 
