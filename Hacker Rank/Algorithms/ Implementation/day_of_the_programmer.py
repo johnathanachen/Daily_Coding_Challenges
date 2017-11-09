@@ -13,14 +13,30 @@ def check_leap_year(calendar_system):
         calender_year = calendar_system["Gregorian"]
         if calender_year % 400 == 0:
             if calender_year % 4 == 0 and calender_year % 100 != 0:
-                print(calendar_name, "is a leap year")
+                return True
+            else:
+                return False
     elif calendar_name == "Julian":
         calender_year = calendar_system["Julian"]
         if calender_year % 4 == 0:
-            print(calendar_name, "is a leap year")
+            return True
+        else:
+            return False
 
+def print_256th_day(is_leap_year):
+    # normal_years = [31,28,31,30,31,30,31,31]
+    # leap_year = [31,29,31,30,31,30,31,31]
+    if is_leap_year:
+        print("12.09."+str(year))
+    else:
+        print("13.09."+str(year))
+
+year = 2017
 def main():
-    calendar_system = find_calender_system(2000)
-    check_leap_year(calendar_system)
+    """ Start Program """
+    calendar_system = find_calender_system(year)
+    is_leap_year = check_leap_year(calendar_system)
+    print_256th_day(is_leap_year)
+
 
 start = main()
