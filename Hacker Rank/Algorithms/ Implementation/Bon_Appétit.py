@@ -1,4 +1,5 @@
 def bonAppetit(n, k, b, ar):
+    """ Given total price and a list of items, return refund amount if applicable """"
     item_to_remove = ar[k]
     ar.pop(k)
     sum_of_bill = sum(ar)
