@@ -1,5 +1,7 @@
 def sockMerchant(n, ar):
-    # Complete this function
+    for index, i in enumerate(ar):
+        while 
+        if i[index] == i[index + 1]
 
 
 def main():
